@@ -39,6 +39,67 @@ notice board — and the society admin manages everything from a single inbox.
 
 ---
 
+# 📸 Screenshots
+
+## Login Page
+
+![Login](screenshots/login.png)
+
+---
+
+## Resident Dashboard
+
+![Resident Dashboard](screenshots/resident-dashboard.png)
+
+---
+
+## Complaints
+
+![Complaints](screenshots/complaints.png)
+
+---
+
+## Notice Board
+
+![Notice Board](screenshots/notice-board.png)
+
+---
+
+## Resident Settings
+
+![Settings](screenshots/settings.png)
+
+---
+
+## Admin Dashboard
+
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+---
+
+## Admin Complaint Management
+
+![Admin Complaints](screenshots/admin-complaints.png)
+
+---
+
+## Admin Notice Management
+
+![Admin Notice](screenshots/admin-notice.png)
+
+---
+
+## Email Log
+
+![Email Log](screenshots/admin-email-log.png)
+
+---
+
+## Admin Settings
+
+![Admin Settings](screenshots/admin-settings.png)
+
+
 ## 🧱 Tech stack
 
 | Layer        | Choice                                                  |
